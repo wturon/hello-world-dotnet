@@ -1,0 +1,11 @@
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\School\SP20\ACTMIS3610\VScode3610\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
